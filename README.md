@@ -1,4 +1,5 @@
 # python_scripts_tutedude
-python_scripts for tute dude
 basic mathmatical operation
 personalized greeting
+even_odd
+sum1-50
