@@ -4,10 +4,7 @@ Assignment2: Task 1: Check if a Number is Even or Odd (even_odd.py)
 Assignment2: Task 2: Sum of Integers from 1 to 50 Using a Loop (sum1-50.py)
 Assignment3: Task 1: Calculate Factorial Using a Function (factorial.py)
 Assignment3: Task 2: Using the Math Module for Calculations (calc_using_math.py)
-<<<<<<< .mine
 Assignment4: Task 1: Read file using exception handling (read_file.py)
-Assignment4: Task 1: Write into a file and read the same at last (write_file.py)
-=======
-
-
->>>>>>> .theirs
+Assignment4: Task 2: Write into a file and read the same at last (write_file.py)
+Assignment5: Task 1: Asks sutdents name and prints marks (student_marks.py)
+Assignment5: Task 2: prints original list,slice into 2 print first slice and reverse of secon slice (list_slicing.py)
